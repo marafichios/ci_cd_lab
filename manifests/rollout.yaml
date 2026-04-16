@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: webserver
-          image: ghcr.io/marafichios/ci_cd_lab:latest
+          image: ghcr.io/cevaaaaaaaaaaaaaacjkdscnjsk
           ports:
             - containerPort: 8080
           imagePullPolicy: Always
